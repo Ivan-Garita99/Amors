@@ -1,2 +1,2 @@
-# Amors
-Proyectos para ella..
+# Detalle
+...
